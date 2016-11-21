@@ -1,0 +1,4 @@
+package: github.com/callumj/unbindings
+import:
+- package: github.com/mattn/go-shellwords
+  version: ^1.0.0

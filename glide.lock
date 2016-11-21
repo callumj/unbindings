@@ -1,0 +1,6 @@
+hash: 13a7c9a283d45a58c4b124ad0fe0c179cdbef5cf7183b80782dd55724035649e
+updated: 2016-11-20T17:05:38.871245829-08:00
+imports:
+- name: github.com/mattn/go-shellwords
+  version: f4e566c536cf69158e808ec28ef4182a37fdc981
+testImports: []
